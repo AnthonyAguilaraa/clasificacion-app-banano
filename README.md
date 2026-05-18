@@ -1,11 +1,11 @@
 # 🍌 Aplicación de Clasificación de Banano IA
 
-Una aplicación móvil Flutter que utiliza Deep Learning para clasificar automáticamente el estado y defectos en plátanos en tiempo real. La aplicación es capaz de detectar diversos tipos de defectos y condiciones en los plátanos utilizando modelos entrenados con aprendizaje profundo.
+Una aplicación móvil Flutter que utiliza Deep Learning para clasificar automáticamente el estado y defectos en bananos en tiempo real. La aplicación es capaz de detectar diversos tipos de defectos y condiciones en los bananos utilizando modelos entrenados con aprendizaje profundo.
 
 ## 🎯 Descripción del Proyecto
 
 **Banano IA** es una herramienta de visión por computadora diseñada para agricultores y productores de plátano que permite:
-- Capturar imágenes de plátanos directamente desde la cámara del dispositivo
+- Capturar imágenes de bananos directamente desde la cámara del dispositivo
 - Clasificar automáticamente el estado del plátano en tiempo real
 - Proporcionar recomendaciones específicas para cada tipo de defecto
 - Funcionar sin conexión a internet (inferencia local)
@@ -13,7 +13,7 @@ Una aplicación móvil Flutter que utiliza Deep Learning para clasificar automá
 ## ✨ Características Principales
 
 - ✅ **Clasificación en Tiempo Real**: Análisis instantáneo usando modelos de Deep Learning
-- ✅ **Múltiples Categorías**: Detecta 8 tipos diferentes de estados y defectos
+- ✅ **Múltiples Categorías**: Detecta 7 tipos diferentes de estados y defectos
 - ✅ **Cámara Integrada**: Captura directa desde la cámara del dispositivo
 - ✅ **Galería de Fotos**: Selecciona imágenes de tu galería
 - ✅ **Interfaz Multilingüe**: Soporte en español e inglés
@@ -154,11 +154,6 @@ flutter pub get
 flutter run -d android
 ```
 
-**En dispositivo iOS:**
-```bash
-flutter run -d ios
-```
-
 **En emulador:**
 ```bash
 flutter run
@@ -233,7 +228,7 @@ El servicio TFLite realiza los siguientes pasos:
 
 La carpeta `Deep Learning - Banana detection/` contiene notebooks de entrenamiento:
 
-- `MobileNetV2_con_balanceo.ipynb` - Entrenamiento MobileNetV2 con balanceo de clases
+- `MobileNetV2_con_balanceo.ipynb` - Entrenamiento MobileNetV2
 - `EfficientNetB0_con_balanceo.ipynb` - Entrenamiento EfficientNetB0
 - `ResNet50_con_balanceo.ipynb` - Entrenamiento ResNet50
 - `VGG19-con balanceo.ipynb` - Entrenamiento VGG19
@@ -254,7 +249,7 @@ Los permisos requeridos se configuran automáticamente en `android/app/src/main/
 Agrega a `ios/Runner/Info.plist`:
 ```xml
 <key>NSCameraUsageDescription</key>
-<string>Se necesita acceso a la cámara para capturar imágenes de plátanos</string>
+<string>Se necesita acceso a la cámara para capturar imágenes de bananos</string>
 <key>NSPhotoLibraryUsageDescription</key>
 <string>Se necesita acceso a la galería para seleccionar imágenes</string>
 ```
@@ -302,13 +297,17 @@ assets/
 supportedLocales: const [Locale('es', ''), Locale('en', ''), Locale('xx', '')],
 ```
 
+## ⚠️ Disclaimer
+
+Esta aplicación está diseñada como herramienta de apoyo para la clasificación de bananos y no reemplaza la inspección profesional y la toma de decisiones por parte de expertos agrícolas. Los resultados de clasificación son estimaciones basadas en modelos de aprendizaje automático y pueden contener errores. Se recomienda verificar los resultados con especialistas en control de calidad antes de tomar decisiones comerciales.
+
 ## 📝 Licencia
 
 Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
 
 ## 👥 Autor
 
-Desarrollado como proyecto de clasificación de plátanos con Deep Learning.
+Desarrollado como proyecto de clasificación de bananos con Deep Learning.
 
 ---
 
@@ -319,6 +318,14 @@ Las contribuciones son bienvenidas. Para cambios importantes, abre un issue prim
 ## 📞 Soporte
 
 Para soporte o reportar bugs, abre un issue en el repositorio.
+
+### Contacto para Replicación o Uso Académico
+
+**Anthony Aguilar-Pineda**  
+aaguilar32@utmachala.edu.ec  
+Universidad Técnica de Machala  
+Ecuador
+
 
 ---
 

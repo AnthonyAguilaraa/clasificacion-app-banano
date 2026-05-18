@@ -4,7 +4,7 @@
 
 ### Authors and Affiliations:
 
-- Anthony Aguilar Pineda– Universidad Técnica de Machala, Ecuador
+- Anthony Aguilar Pineda – Universidad Técnica de Machala, Ecuador
 - Luis Toro Cobos – Universidad Técnica de Machala, Ecuador
 - Bertha Mazon Olivo – Universidad Técnica de Machala, Ecuador
 - José Quevedo – Universidad Técnica de Machala, Ecuador

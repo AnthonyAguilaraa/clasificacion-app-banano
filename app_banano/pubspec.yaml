@@ -1,0 +1,30 @@
+name: app_banano
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.10.0
+
+dependencies:
+  flutter:
+    sdk: flutter 
+  image_picker: ^1.0.4
+  camera: ^0.11.3
+  permission_handler: ^12.0.1 
+  tflite_flutter: ^0.12.1
+  image: ^4.7.2
+  easy_localization: ^3.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/models/banano_mobilenetv2.tflite
+    - assets/models/labels.txt
+    - assets/translations/

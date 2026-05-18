@@ -1,0 +1,66 @@
+{
+  "app_title": "Banana AI",
+  "main_menu": "Main Menu",
+  "guide_title": "Banana Types Guide",
+  "select_tool": "Select a tool:",
+  "btn_scanner": "Live\nScanner",
+  "btn_photo": "Take\nPhoto",
+  "btn_gallery": "Load from Gallery & Analyze",
+  "live_result": "LIVE RESULT",
+  "aim_banana": "AIM AT BANANA",
+  "certainty": "Certainty",
+  "focus_hint": "Move closer to focus...",
+  "tap_to_analyze": "Tap to Analyze",
+  "analysis_result": "Analysis Result",
+  "ai_detected": "AI Detected:",
+  "high_confidence": "High Confidence",
+  "med_confidence": "Medium Confidence",
+  "low_confidence": "Low Confidence (Doubtful)",
+  "btn_recommendations": "VIEW RECOMMENDATIONS",
+  "detail_desc": "Description",
+  "detail_cause": "Probable Cause",
+  "detail_action": "RECOMMENDED ACTION",
+ 
+
+  "type_apto_title": "Export Quality",
+  "type_apto_desc": "Meets all export standards.",
+  "type_apto_cause": "Fruit harvested at optimal time and handled with care.",
+  "type_apto_solution": "Ready for packing and international shipping.",
+
+  "type_cascara_partida_title": "Split Peel",
+  "type_cascara_partida_desc": "Visible fissures on the skin.",
+  "type_cascara_partida_cause": "Sudden humidity changes or over-ripening on the plant.",
+  "type_cascara_partida_solution": "Discard for export. Divert to by-products (puree).",
+
+  "type_cicatriz_golpe_title": "Handling Bruise",
+  "type_cicatriz_golpe_desc": "Damage from previous handling.",
+  "type_cicatriz_golpe_cause": "Poor handling during bunch transport or dropping.",
+  "type_cicatriz_golpe_solution": "Check depth. If superficial, route to local market; if deep, discard.",
+
+  "type_corte_cuchareta_title": "Crown Gouge",
+  "type_corte_cuchareta_desc": "Deep cut in the crown area.",
+  "type_corte_cuchareta_cause": "Dull dehanding tool or human error during cutting.",
+  "type_corte_cuchareta_solution": "Apply healing agent if minor, or re-cut crown if possible.",
+
+  "type_mal_formaciones_title": "Malformations",
+  "type_mal_formaciones_desc": "Irregular shape or twin fingers.",
+  "type_mal_formaciones_cause": "Genetic factors or water stress during flowering.",
+  "type_mal_formaciones_solution": "Not suitable for premium boxes. Sell as domestic fruit.",
+
+  "type_marca_madurez_title": "Premature Ripening",
+  "type_marca_madurez_desc": "Premature yellow coloration.",
+  "type_marca_madurez_cause": "Ethylene exposure or late harvesting.",
+  "type_marca_madurez_solution": "Separate immediately from the batch to prevent chain ripening.",
+
+  "type_plaga_enfermedades_title": "Pest / Disease",
+  "type_plaga_enfermedades_desc": "Presence of fungi or insects.",
+  "type_plaga_enfermedades_cause": "Mealybugs, Thrips, or lack of proper bagging.",
+  "type_plaga_enfermedades_solution": "Immediate quarantine. Review phytosanitary control of the batch.",
+
+
+  "detected": "Detected:",
+
+
+
+  "btn_language": "Language"
+}

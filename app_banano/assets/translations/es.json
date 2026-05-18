@@ -1,0 +1,66 @@
+{
+  "app_title": "Banano IA",
+  "main_menu": "Menú Principal",
+  "guide_title": "Guía de Tipos de Banano",
+  "select_tool": "Seleccione una herramienta:",
+  "btn_scanner": "Escáner\nen Vivo",
+  "btn_photo": "Tomar\nFoto",
+  "btn_gallery": "Cargar de Galería y Analizar",
+  "live_result": "RESULTADO EN VIVO",
+  "aim_banana": "APUNTE AL BANANO",
+  "certainty": "Certeza",
+  "focus_hint": "Acérquese para enfocar...",
+  "tap_to_analyze": "Tocar para Analizar",
+  "analysis_result": "Resultado del Análisis",
+  "ai_detected": "IA Detectó:",
+  "high_confidence": "Alta Confianza",
+  "med_confidence": "Confianza Media",
+  "low_confidence": "Baja Confianza (Dudoso)",
+  "btn_recommendations": "VER RECOMENDACIONES",
+  "detail_desc": "Descripción",
+  "detail_cause": "Causa Probable",
+  "detail_action": "ACCIÓN RECOMENDADA",
+
+
+  "type_apto_title": "Apto",
+  "type_apto_desc": "Cumple estándares de exportación.",
+  "type_apto_cause": "Fruta cosechada en el momento óptimo y manejada con cuidado.",
+  "type_apto_solution": "Listo para empaquetado y envío internacional.",
+
+  "type_cascara_partida_title": "Cáscara Partida",
+  "type_cascara_partida_desc": "Fisuras visibles en la piel.",
+  "type_cascara_partida_cause": "Cambios bruscos de humedad o sobremaduración en la planta.",
+  "type_cascara_partida_solution": "Descartar para exportación. Usar para derivados (puré).",
+
+  "type_cicatriz_golpe_title": "Cicatriz Golpe",
+  "type_cicatriz_golpe_desc": "Daño por manipulación previa.",
+  "type_cicatriz_golpe_cause": "Mal manejo durante el transporte del racimo o caída.",
+  "type_cicatriz_golpe_solution": "Verificar profundidad. Si es leve, mercado local; si es grave, descarte.",
+
+  "type_corte_cuchareta_title": "Corte Cuchareta",
+  "type_corte_cuchareta_desc": "Corte profundo en la corona.",
+  "type_corte_cuchareta_cause": "Herramienta de desmane mal afilada o error humano al cortar.",
+  "type_corte_cuchareta_solution": "Aplicar cicatrizante si es leve, o re-cortar si es posible.",
+
+  "type_mal_formaciones_title": "Malformaciones",
+  "type_mal_formaciones_desc": "Forma irregular o gemelos.",
+  "type_mal_formaciones_cause": "Factores genéticos o estrés hídrico durante la floración.",
+  "type_mal_formaciones_solution": "No apto para cajas premium. Venta como fruta nacional.",
+
+  "type_marca_madurez_title": "Marca Madurez",
+  "type_marca_madurez_desc": "Coloración amarilla prematura.",
+  "type_marca_madurez_cause": "Exposición al etileno o cosecha tardía.",
+  "type_marca_madurez_solution": "Separar inmediatamente del lote para evitar maduración en cadena.",
+
+  "type_plaga_enfermedades_title": "Plaga / Enfermedad",
+  "type_plaga_enfermedades_desc": "Presencia de hongos o insectos.",
+  "type_plaga_enfermedades_cause": "Cochinilla, Trips o falta de enfunde adecuado.",
+  "type_plaga_enfermedades_solution": "Cuarentena inmediata. Revisar control fitosanitario del lote.",
+  
+ 
+  "detected": "Detectado:",
+
+ 
+
+  "btn_language": "Idioma"
+}

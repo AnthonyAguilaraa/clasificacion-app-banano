@@ -1,0 +1,7 @@
+apto
+cascara_partida
+cicatriz_golpe
+corte_cuchareta
+mal_formaciones
+marca_madurez
+plaga_enfermedades

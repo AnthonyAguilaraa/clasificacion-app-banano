@@ -1,0 +1,29 @@
+# Flutter
+.dart_tool/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+
+# Android / IDE
+.idea/
+.vscode/
+.gradle/
+
+# Python
+__pycache__/
+*.pyc
+
+# Dataset pesado opcional
+Dataset/
+
+# Modelos pesados
+*.h5
+*.pt
+*.pth
+*.tflite
+
+# Mac
+.DS_Store
+
+*.keras

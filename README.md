@@ -4,9 +4,9 @@ Una aplicación móvil Flutter que utiliza Deep Learning para clasificar automá
 
 ## 🎯 Descripción del Proyecto
 
-**Banano IA** es una herramienta de visión por computadora diseñada para agricultores y productores de plátano que permite:
+**Banano IA** es una herramienta de visión por computadora diseñada para agricultores y productores de Banano que permite:
 - Capturar imágenes de bananos directamente desde la cámara del dispositivo
-- Clasificar automáticamente el estado del plátano en tiempo real
+- Clasificar automáticamente el estado del Banano en tiempo real
 - Proporcionar recomendaciones específicas para cada tipo de defecto
 - Funcionar sin conexión a internet (inferencia local)
 
@@ -24,7 +24,7 @@ Una aplicación móvil Flutter que utiliza Deep Learning para clasificar automá
 
 | Categoría | Descripción | Estado |
 |-----------|-------------|--------|
-| **Apto** | Plátano en perfecto estado | ✅ Aceptable |
+| **Apto** | Banano en perfecto estado | ✅ Aceptable |
 | **Cascara Partida** | Grietas o roturas en la cáscara | ⚠️ Defecto |
 | **Cicatriz Golpe** | Cicatrices por golpes durante el transporte | ⚠️ Defecto |
 | **Corte Cuchareta** | Daño causado por herramientas de cosecha | ⚠️ Defecto |
@@ -269,7 +269,7 @@ Agrega a `ios/Runner/Info.plist`:
 ### Clasificación imprecisa
 - Asegúrate de capturar la imagen con buena iluminación
 - Prueba con otro modelo (EfficientNetB0 o ResNet50)
-- Verifica que la imagen sea clara y contenga un plátano completo
+- Verifica que la imagen sea clara y contenga un Banano completo
 
 ## 📈 Métricas de Rendimiento
 

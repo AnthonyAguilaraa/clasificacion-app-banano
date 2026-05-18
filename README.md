@@ -1,4 +1,15 @@
-# 🍌 Aplicación de Clasificación de Banano IA
+# 🍌 Development of a Mobile Application for Automatic Banana Classification in Export Processes Using Deep Learning
+
+## Manuscript ID: 00000
+
+### Authors and Affiliations:
+
+- Anthony Aguilar Pineda– Universidad Técnica de Machala, Ecuador
+- Luis Toro Cobos – Universidad Técnica de Machala, Ecuador
+- Bertha Mazon Olivo – Universidad Técnica de Machala, Ecuador
+- José Quevedo – Universidad Técnica de Machala, Ecuador
+
+---
 
 Una aplicación móvil Flutter que utiliza Deep Learning para clasificar automáticamente el estado y defectos en bananos en tiempo real. La aplicación es capaz de detectar diversos tipos de defectos y condiciones en los bananos utilizando modelos entrenados con aprendizaje profundo.
 
